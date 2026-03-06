@@ -1,10 +1,10 @@
 # Classification_Regression_Machine_Learning
 This project implements machine learning techniques for both classification and regression tasks using two real-world datasets focusing on manual implementation and comparison with Scikit-Learn tools.
--Understanding classification and regression tasks. ​
--Learning data splitting for training, validation, and testing. ​
--Implementing machine learning algorithms manually and using Scikit-Learn. ​
--Analyzing and comparing results for different models and approaches. ​
--Gaining proficiency in Python frameworks such as NumPy, Pandas, and Scikit-Learn. 
+- Understanding classification and regression tasks. ​
+- Learning data splitting for training, validation, and testing. ​
+- Implementing machine learning algorithms manually and using Scikit-Learn. ​
+- Analyzing and comparing results for different models and approaches. ​
+- Gaining proficiency in Python frameworks such as NumPy, Pandas, and Scikit-Learn. 
 
 ## Problem Statement 1 (Classification)
 Dataset: MAGIC gamma telescope dataset. ​
